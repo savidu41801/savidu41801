@@ -10,6 +10,16 @@
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=savidu41801&theme=tokyonight&background=0D1117&border=00F0FF&stroke=00F0FF&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" />
+</p>
+---
+
+**🚀 System Deployments & Featured Projects**
+
+- **🤖 KingSavi Bot & Custom RPC** - Silent Python-based automation engine for Discord status management.
+- **⚡ Android System Modding** - Custom ROM performance tweaks, ADB scripts, and recovery setups.
+
 **⚡ System Specifications & Core Logs**
 
 ```console
@@ -20,3 +30,8 @@ root@cyber-core:~# neofetch
         \  ^  /        Specialities: AI & IoT Hardware, System Automation, Custom ROMs
          '||'          Focus: Low-Level Logic, Database Architecture & Scalability
         '----'         Status: Optimizing Core Modules...
+
+<p align="center">
+  <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-KingSaviBot-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
