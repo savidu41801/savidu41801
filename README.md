@@ -61,10 +61,10 @@ Status : Optimizing core modules...
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=savidu41801&show_icons=true&theme=tokyonight&hide_border=true&bg_color=12151A&title_color=2DD4BF&icon_color=2DD4BF&text_color=E9EBEF" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savidu41801&layout=compact&theme=tokyonight&hide_border=true&bg_color=12151A&title_color=2DD4BF&text_color=E9EBEF" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=savidu41801&theme=tokyonight&show_icons=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savidu41801&theme=tokyonight&layout=compact" width="48%" />
 
-<img src="https://streak-stats.demolab.com/?user=savidu41801&theme=tokyonight&hide_border=true&background=12151A&ring=2DD4BF&fire=F0995C&currStreakLabel=2DD4BF" width="100%" />
+<img src="https://streak-stats.demolab.com/?user=savidu41801&theme=tokyonight&hide_border=true" width="100%" />
 
 </div>
 
