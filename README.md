@@ -43,11 +43,12 @@ OS     : Custom-Modded Android + Windows Dev Environment
 Host   : Savidu Sathsara (savidu41801)
 Role   : Software Engineering Undergraduate - NSBM
 Focus  : AI & IoT Hardware, Systems Automation, Custom ROMs
-Core   : Python • SQL • Git • Android (Fastboot/TWRP)
+Core   : Python • SQL • Git • Android (Fastboot/TWRP/OrangeFOX)
 Status : Optimizing core modules...
 ------------------------------------------------------------------
-</div>
 ```
+</div>
+
 ### Tech stack
 
 <div align="center">
