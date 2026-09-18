@@ -13,19 +13,21 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:12151A,100:2DD4BF&height=200&section=header&text=Savidu%20Sathsara&fontSize=38&fontColor=E9EBEF&animation=fadeIn&desc=Software%20Engineer%20%E2%80%94%20AI%20%26%20Systems&descAlignY=62&descSize=16)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:12151A,100:2DD4BF&height=180&section=header&text=Savidu%20Sathsara&fontSize=40&fontColor=E9EBEF&animation=fadeIn)
+
+**Software Engineering Undergraduate — AI & Systems**
 
 ![System Status](https://img.shields.io/badge/SYSTEM_STATUS-ONLINE-2DD4BF?style=for-the-badge&labelColor=12151A)
 ![Security Level](https://img.shields.io/badge/SECURITY_LEVEL-MAXIMUM-F0995C?style=for-the-badge&labelColor=12151A)
 ![Role](https://img.shields.io/badge/ROLE-SOFTWARE_ENGINEER-2DD4BF?style=for-the-badge&labelColor=12151A)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2DD4BF&center=true&vCenter=true&width=650&lines=First-year+CS+and+AI+undergraduate+at+NSBM;Building+KingSaviBot%2C+a+Python+Discord+automation+bot;Currently+flashing+a+new+ROM+onto+my+Poco+X3+Pro)](https://github.com/savidu41801)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2DD4BF&center=true&vCenter=true&width=650&lines=First-year+Software+Engineering+undergraduate+at+NSBM;Building+KingSaviBot%2C+a+Python+Discord+automation+bot;Currently+flashing+a+new+ROM+onto+my+Poco+X3+Pro)](https://github.com/savidu41801)
 
 </div>
 
 ### About me
 
-- 🎓 First-year undergraduate at **NSBM** (Sri Lanka), studying a mix of mathematics, databases, AI, and software development
+- 🎓 First-year **Software Engineering** undergraduate at NSBM (Sri Lanka) — coursework spans mathematics, databases, AI, and software development
 - 🤖 Building **KingSaviBot**, a Python Discord bot with a custom RPC client for automated status management
 - 🔧 Currently mid-flash — moving my Poco X3 Pro from a custom HyperOS build to a newer ported release
 - 🧠 Recently wrapped **FitAI**, an AI-powered sportswear concept, for my AI102.2 coursework
@@ -78,7 +80,7 @@ Status     optimizing core modules...
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=savidu41801&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1)
+![Trophies](https://github-profile-trophy.vercel.app/?username=savidu41801&theme=algolia&row=1&margin-w=15)
 
 </div>
 
