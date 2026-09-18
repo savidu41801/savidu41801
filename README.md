@@ -102,9 +102,9 @@ Status : Optimizing core modules...
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-12151A?style=for-the-badge&logo=discord&logoColor=2DD4BF)](https://discord.gg/savidu_41801)
+[![Discord](https://img.shields.io/badge/Discord-12151A?style=for-the-badge&logo=discord&logoColor=2DD4BF)](https://discord.gg/[savidu_41801](https://discord.gg/xQgqPYbvkH))
 [![Email](https://img.shields.io/badge/Email-12151A?style=for-the-badge&logo=gmail&logoColor=2DD4BF)](mailto:savidusathsara.dev@proton.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-12151A?style=for-the-badge&logo=linkedin&logoColor=2DD4BF)](https://linkedin.com/in/www.linkedin.com/in/savidu-sathsara-1b9203438)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-12151A?style=for-the-badge&logo=linkedin&logoColor=2DD4BF)](https://linkedin.com/in/savidu-sathsara-1b9203438)
 [![GitHub](https://img.shields.io/badge/GitHub-12151A?style=for-the-badge&logo=github&logoColor=2DD4BF)](https://github.com/savidu41801)
 
 ![Profile views](https://komarev.com/ghpvc/?username=savidu41801&color=2DD4BF&style=flat&label=Profile+Views)
