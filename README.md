@@ -1,39 +1,112 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=580&lines=SYSTEM+OVERRIDE+%2F%2F+CORE+MODDER;SOFTWARE+ENGINEERING+UNDERGRADUATE;AI+%26+IOT+HARDWARE+INTEGRATION;CUSTOM+SYSTEMS+%26+LOW-LEVEL+TWEAKS" alt="Typing SVG" />
-</h1>
+<!--
+  Quick setup notes
+  - Already wired up for github.com/savidu41801 — no username swap needed.
+  - Swap YOUR_EMAIL, YOUR_LINKEDIN, and YOUR_DISCORD_INVITE below for your
+    real details (search for "YOUR_" to find every spot).
+  - For the animated snake graph near the bottom: add the companion
+    snake-workflow.yml to .github/workflows/snake-workflow.yml in this same
+    repo, then run it once manually from the "Actions" tab. After that it
+    keeps itself updated daily.
+  - If a stats card ever shows up broken, that's the free hosting service
+    being rate-limited for a moment, not your setup — it clears on its own.
+-->
 
-<p align="center">
-  <img src="https://img.shields.io/badge/System_Status-ONLINE-00F0FF?style=for-the-badge&logo=prefect&logoColor=black" />
-  <img src="https://img.shields.io/badge/Security_Level-MAXIMUM-0055FF?style=for-the-badge&logo=hyperledger&logoColor=white" />
-  <img src="https://img.shields.io/badge/Role-SOFTWARE_ENGINEER-00F0FF?style=for-the-badge&logo=android&logoColor=black" />
-</p>
+<div align="center">
 
----
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:12151A,100:2DD4BF&height=200&section=header&text=Savidu%20Sathsara&fontSize=38&fontColor=E9EBEF&animation=fadeIn&desc=Software%20Engineer%20%E2%80%94%20AI%20%26%20Systems&descAlignY=62&descSize=16)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=savidu41801&theme=tokyonight&background=0D1117&border=00F0FF&stroke=00F0FF&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" />
-</p>
----
+![System Status](https://img.shields.io/badge/SYSTEM_STATUS-ONLINE-2DD4BF?style=for-the-badge&labelColor=12151A)
+![Security Level](https://img.shields.io/badge/SECURITY_LEVEL-MAXIMUM-F0995C?style=for-the-badge&labelColor=12151A)
+![Role](https://img.shields.io/badge/ROLE-SOFTWARE_ENGINEER-2DD4BF?style=for-the-badge&labelColor=12151A)
 
-🚀 System Deployments & Featured Projects
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2DD4BF&center=true&vCenter=true&width=650&lines=First-year+CS+and+AI+undergraduate+at+NSBM;Building+KingSaviBot%2C+a+Python+Discord+automation+bot;Currently+flashing+a+new+ROM+onto+my+Poco+X3+Pro)](https://github.com/savidu41801)
 
-🤖 KingSavi Bot & Custom RPC - Silent Python-based automation engine for Discord status management.
-⚡ Android System Modding - Custom ROM performance tweaks, ADB scripts, and recovery setups.
-⚡ System Specifications & Core Logs
+</div>
 
-<p align="center">
-  <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-KingSaviBot-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-```console
-root@cyber-core:~# neofetch
-         .---.         OS: Custom Modded System Environment
-        /     \        User: Savidu Sathsara [savidu41801]
-       | () () |       Role: Software Engineering Undergraduate
-        \  ^  /        Specialities: AI & IoT Hardware, System Automation, Custom ROMs
-         '||'          Focus: Low-Level Logic, Database Architecture & Scalability
-        '----'         Status: Optimizing Core Modules...
+### About me
 
+- 🎓 First-year undergraduate at **NSBM** (Sri Lanka), studying a mix of mathematics, databases, AI, and software development
+- 🤖 Building **KingSaviBot**, a Python Discord bot with a custom RPC client for automated status management
+- 🔧 Currently mid-flash — moving my Poco X3 Pro from a custom HyperOS build to a newer ported release
+- 🧠 Recently wrapped **FitAI**, an AI-powered sportswear concept, for my AI102.2 coursework
+- 📫 Reach me at **YOUR_EMAIL**, or through the links at the bottom of this page
 
+<div align="center">
 
+```
+$ neofetch
+────────────────────────────────────────────────
+OS         Custom-Modded Android + Windows Dev Environment
+Host       Savidu Sathsara (savidu41801)
+Role       Software Engineering Undergraduate — NSBM
+Focus      AI & IoT Hardware, Systems Automation, Custom ROMs
+Core       Python · SQL · Git · Android (Fastboot/TWRP)
+Status     optimizing core modules...
+────────────────────────────────────────────────
+```
 
+</div>
+
+### Tech stack
+
+<div align="center">
+
+![Skills](https://skillicons.dev/icons?i=python,mysql,git,github,linux,vscode&perline=6)
+
+</div>
+
+### GitHub stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=savidu41801&show_icons=true&theme=tokyonight&hide_border=true&bg_color=12151A&title_color=2DD4BF&icon_color=2DD4BF&text_color=E9EBEF" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savidu41801&layout=compact&theme=tokyonight&hide_border=true&bg_color=12151A&title_color=2DD4BF&text_color=E9EBEF" width="49%" />
+
+<img src="https://streak-stats.demolab.com/?user=savidu41801&theme=tokyonight&hide_border=true&background=12151A&ring=2DD4BF&fire=F0995C&currStreakLabel=2DD4BF" width="100%" />
+
+</div>
+
+### 🚀 System Deployments & Featured Projects
+
+| Project | What it does |
+|---|---|
+| **KingSaviBot** | A silent, Python-based Discord automation bot with a custom RPC client for status management |
+| **Custom ROM Engineering** | Bootloader unlocking, custom recovery flashing (TWRP/OrangeFox), ADB scripting, and ROM performance tuning on a Poco X3 Pro |
+| **FitAI** | An AI-powered sportswear concept — full research report and system wireframes, built for AI102.2 |
+
+### Trophy case
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=savidu41801&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1)
+
+</div>
+
+### Contribution activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/savidu41801/savidu41801/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/savidu41801/savidu41801/output/github-contribution-grid-snake.svg" />
+  <img alt="A snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/savidu41801/savidu41801/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<sub>needs the companion <code>snake-workflow.yml</code> — see the setup notes at the very top of this file's source</sub>
+
+</div>
+
+### Connect
+
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-12151A?style=for-the-badge&logo=discord&logoColor=2DD4BF)](https://discord.gg/YOUR_DISCORD_INVITE)
+[![Email](https://img.shields.io/badge/Email-12151A?style=for-the-badge&logo=gmail&logoColor=2DD4BF)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-12151A?style=for-the-badge&logo=linkedin&logoColor=2DD4BF)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-12151A?style=for-the-badge&logo=github&logoColor=2DD4BF)](https://github.com/savidu41801)
+
+![Profile views](https://komarev.com/ghpvc/?username=savidu41801&color=2DD4BF&style=flat&label=Profile+Views)
+
+</div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2DD4BF,100:12151A&height=100&section=footer)
