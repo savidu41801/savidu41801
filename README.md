@@ -35,18 +35,19 @@
 
 <div align="center">
 
-```
-$ neofetch
-────────────────────────────────────────────────
-OS         Custom-Modded Android + Windows Dev Environment
-Host       Savidu Sathsara (savidu41801)
-Role       Software Engineering Undergraduate — NSBM
-Focus      AI & IoT Hardware, Systems Automation, Custom ROMs
-Core       Python · SQL · Git · Android (Fastboot/TWRP)
-Status     optimizing core modules...
-────────────────────────────────────────────────
-```
+### About me
 
+```text
+$ neofetch
+----------------------------------------------------------------------
+OS       : Custom-Modded Android + Windows Dev Environment
+Host     : Savidu Sathsara (savidu41801)
+Role     : Software Engineering Undergraduate - NSBM
+Focus    : AI & IoT Hardware, Systems Automation, Custom ROMs
+Core     : Python • SQL • Git • Android (Fastboot/TWRP)
+Status   : Optimizing core modules...
+----------------------------------------------------------------------
+```
 </div>
 
 ### Tech stack
