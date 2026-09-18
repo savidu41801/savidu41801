@@ -33,23 +33,21 @@
 - 🧠 Recently wrapped **FitAI**, an AI-powered sportswear concept, for my AI102.2 coursework
 - 📫 Reach me at **YOUR_EMAIL**, or through the links at the bottom of this page
 
-<div align="center">
+<div align="left align">
 
 ### About me
-
 ```text
 $ neofetch
-----------------------------------------------------------------------
-OS       : Custom-Modded Android + Windows Dev Environment
-Host     : Savidu Sathsara (savidu41801)
-Role     : Software Engineering Undergraduate - NSBM
-Focus    : AI & IoT Hardware, Systems Automation, Custom ROMs
-Core     : Python • SQL • Git • Android (Fastboot/TWRP)
-Status   : Optimizing core modules...
-----------------------------------------------------------------------
-```
+------------------------------------------------------------------
+OS     : Custom-Modded Android + Windows Dev Environment
+Host   : Savidu Sathsara (savidu41801)
+Role   : Software Engineering Undergraduate - NSBM
+Focus  : AI & IoT Hardware, Systems Automation, Custom ROMs
+Core   : Python • SQL • Git • Android (Fastboot/TWRP)
+Status : Optimizing core modules...
+------------------------------------------------------------------
 </div>
-
+```
 ### Tech stack
 
 <div align="center">
