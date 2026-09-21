@@ -30,8 +30,7 @@
 - 🎓 First-year **Software Engineering** undergraduate at NSBM (Sri Lanka) — coursework spans mathematics, databases, AI, and software development
 - 🤖 Building **KingSaviBot**, a Python Discord bot with a custom RPC client for automated status management
 - 🔧 Currently mid-flash — moving my Poco X3 Pro from a custom HyperOS build to a newer ported release
-- 🧠 Recently wrapped **FitAI**, an AI-powered sportswear concept, for my AI102.2 coursework
-- 📫 Reach me at **YOUR_EMAIL**, or through the links at the bottom of this page
+- 📫 Reach me at **savidusathsara.dev@proton.me**, or through the links at the bottom of this page
 
 <div align="left align">
 
